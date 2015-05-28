@@ -16,11 +16,6 @@ public class Upgrade : MonoBehaviour {
         _level = 1;
 	}
 
-    void Update()
-    {
-        Debug.Log(_maxhealth);
-        Debug.Log(_level);
-    }
 
     public void HealthUpgrade()
     {
