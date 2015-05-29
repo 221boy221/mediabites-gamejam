@@ -1,0 +1,2035 @@
+fileFormatVersion: 2
+guid: 14f1f718750b2684f87d6d93ad1e6123
+timeCreated: 1432891201
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Middelboom_0
+    21300002: Middelboom_1
+    21300004: Middelboom_2
+    21300006: Middelboom_3
+    21300008: Middelboom_4
+    21300010: Middelboom_5
+    21300012: Middelboom_6
+    21300014: Middelboom_7
+    21300016: Middelboom_8
+    21300018: Middelboom_9
+    21300020: Middelboom_10
+    21300022: Middelboom_11
+    21300024: Middelboom_12
+    21300026: Middelboom_13
+    21300028: Middelboom_14
+    21300030: Middelboom_15
+    21300032: Middelboom_16
+    21300034: Middelboom_17
+    21300036: Middelboom_18
+    21300038: Middelboom_19
+    21300040: Middelboom_20
+    21300042: Middelboom_21
+    21300044: Middelboom_22
+    21300046: Middelboom_23
+    21300048: Middelboom_24
+    21300050: Middelboom_25
+    21300052: Middelboom_26
+    21300054: Middelboom_27
+    21300056: Middelboom_28
+    21300058: Middelboom_29
+    21300060: Middelboom_30
+    21300062: Middelboom_31
+    21300064: Middelboom_32
+    21300066: Middelboom_33
+    21300068: Middelboom_34
+    21300070: Middelboom_35
+    21300072: Middelboom_36
+    21300074: Middelboom_37
+    21300076: Middelboom_38
+    21300078: Middelboom_39
+    21300080: Middelboom_40
+    21300082: Middelboom_41
+    21300084: Middelboom_42
+    21300086: Middelboom_43
+    21300088: Middelboom_44
+    21300090: Middelboom_45
+    21300092: Middelboom_46
+    21300094: Middelboom_47
+    21300096: Middelboom_48
+    21300098: Middelboom_49
+    21300100: Middelboom_50
+    21300102: Middelboom_51
+    21300104: Middelboom_52
+    21300106: Middelboom_53
+    21300108: Middelboom_54
+    21300110: Middelboom_55
+    21300112: Middelboom_56
+    21300114: Middelboom_57
+    21300116: Middelboom_58
+    21300118: Middelboom_59
+    21300120: Middelboom_60
+    21300122: Middelboom_61
+    21300124: Middelboom_62
+    21300126: Middelboom_63
+    21300128: Middelboom_64
+    21300130: Middelboom_65
+    21300132: Middelboom_66
+    21300134: Middelboom_67
+    21300136: Middelboom_68
+    21300138: Middelboom_69
+    21300140: Middelboom_70
+    21300142: Middelboom_71
+    21300144: Middelboom_72
+    21300146: Middelboom_73
+    21300148: Middelboom_74
+    21300150: Middelboom_75
+    21300152: Middelboom_76
+    21300154: Middelboom_77
+    21300156: Middelboom_78
+    21300158: Middelboom_79
+    21300160: Middelboom_80
+    21300162: Middelboom_81
+    21300164: Middelboom_82
+    21300166: Middelboom_83
+    21300168: Middelboom_84
+    21300170: Middelboom_85
+    21300172: Middelboom_86
+    21300174: Middelboom_87
+    21300176: Middelboom_88
+    21300178: Middelboom_89
+    21300180: Middelboom_90
+    21300182: Middelboom_91
+    21300184: Middelboom_92
+    21300186: Middelboom_93
+    21300188: Middelboom_94
+    21300190: Middelboom_95
+    21300192: Middelboom_96
+    21300194: Middelboom_97
+    21300196: Middelboom_98
+    21300198: Middelboom_99
+    21300200: Middelboom_100
+    21300202: Middelboom_101
+    21300204: Middelboom_102
+    21300206: Middelboom_103
+    21300208: Middelboom_104
+    21300210: Middelboom_105
+    21300212: Middelboom_106
+    21300214: Middelboom_107
+    21300216: Middelboom_108
+    21300218: Middelboom_109
+    21300220: Middelboom_110
+    21300222: Middelboom_111
+    21300224: Middelboom_112
+    21300226: Middelboom_113
+    21300228: Middelboom_114
+    21300230: Middelboom_115
+    21300232: Middelboom_116
+    21300234: Middelboom_117
+    21300236: Middelboom_118
+    21300238: Middelboom_119
+    21300240: Middelboom_120
+    21300242: Middelboom_121
+    21300244: Middelboom_122
+    21300246: Middelboom_123
+    21300248: Middelboom_124
+    21300250: Middelboom_125
+    21300252: Middelboom_126
+    21300254: Middelboom_127
+    21300256: Middelboom_128
+    21300258: Middelboom_129
+    21300260: Middelboom_130
+    21300262: Middelboom_131
+    21300264: Middelboom_132
+    21300266: Middelboom_133
+    21300268: Middelboom_134
+    21300270: Middelboom_135
+    21300272: Middelboom_136
+    21300274: Middelboom_137
+    21300276: Middelboom_138
+    21300278: Middelboom_139
+    21300280: Middelboom_140
+    21300282: Middelboom_141
+    21300284: Middelboom_142
+    21300286: Middelboom_143
+    21300288: Middelboom_144
+    21300290: Middelboom_145
+    21300292: Middelboom_146
+    21300294: Middelboom_147
+    21300296: Middelboom_148
+    21300298: Middelboom_149
+    21300300: Middelboom_150
+    21300302: Middelboom_151
+    21300304: Middelboom_152
+    21300306: Middelboom_153
+    21300308: Middelboom_154
+    21300310: Middelboom_155
+    21300312: Middelboom_156
+    21300314: Middelboom_157
+    21300316: Middelboom_158
+    21300318: Middelboom_159
+    21300320: Middelboom_160
+    21300322: Middelboom_161
+    21300324: Middelboom_162
+    21300326: Middelboom_163
+    21300328: Middelboom_164
+    21300330: Middelboom_165
+    21300332: Middelboom_166
+    21300334: Middelboom_167
+    21300336: Middelboom_168
+    21300338: Middelboom_169
+    21300340: Middelboom_170
+    21300342: Middelboom_171
+    21300344: Middelboom_172
+    21300346: Middelboom_173
+    21300348: Middelboom_174
+    21300350: Middelboom_175
+    21300352: Middelboom_176
+    21300354: Middelboom_177
+    21300356: Middelboom_178
+    21300358: Middelboom_179
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Middelboom_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 7474
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 7474
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 7474
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_3
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 7474
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_4
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 7474
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_5
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 7472
+        width: 368
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_6
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 7474
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_7
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 7474
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_8
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 7474
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_9
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 7474
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_10
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 7474
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_11
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 7474
+        width: 372
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_12
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 7472
+        width: 372
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_13
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 7474
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_14
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 7472
+        width: 371
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_15
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 7474
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_16
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 7474
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_17
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 7474
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6734
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_20
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_21
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 6734
+        width: 372
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_22
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 6734
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_23
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_24
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_25
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_26
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 6734
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_27
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_28
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_29
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 6734
+        width: 372
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_30
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 6734
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_31
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_32
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_33
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 6734
+        width: 372
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_34
+      rect:
+        serializedVersion: 2
+        x: 7051
+        y: 6734
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_35
+      rect:
+        serializedVersion: 2
+        x: 7490
+        y: 6734
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5998
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_37
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_38
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_39
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_40
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 5998
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_41
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_42
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_43
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_44
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 5998
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_45
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_46
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_47
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 5998
+        width: 368
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_48
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 5998
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_49
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_50
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_51
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 5998
+        width: 368
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_52
+      rect:
+        serializedVersion: 2
+        x: 7051
+        y: 5998
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_53
+      rect:
+        serializedVersion: 2
+        x: 7490
+        y: 5998
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 5258
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_56
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 5258
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_57
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_58
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_59
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 5258
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_60
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 5258
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_61
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 5248
+        width: 364
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_62
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_63
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 5258
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_64
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 5258
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_65
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_66
+      rect:
+        serializedVersion: 2
+        x: 5302
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_67
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 5258
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_68
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_69
+      rect:
+        serializedVersion: 2
+        x: 6618
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_70
+      rect:
+        serializedVersion: 2
+        x: 7058
+        y: 5258
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_71
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 5258
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_72
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4512
+        width: 372
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_73
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 4518
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_74
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 4512
+        width: 371
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_75
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 4518
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_76
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 4518
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_77
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 4518
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_78
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 4518
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_79
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 4518
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_80
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 4518
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_81
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 4518
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_82
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 4518
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_83
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 4518
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_84
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 4518
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_85
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 4518
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_86
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 4518
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_87
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 4518
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_88
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 4512
+        width: 372
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_89
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 4518
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_90
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3778
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_91
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3778
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_92
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3778
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_93
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 3778
+        width: 372
+        height: 687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_94
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 3778
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_95
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 3776
+        width: 372
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_96
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 3778
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_97
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3778
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_98
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 3778
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_99
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 3776
+        width: 372
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_100
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 3778
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_101
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 3778
+        width: 372
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_102
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 3778
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_103
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 3778
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_104
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 3778
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_105
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 3778
+        width: 372
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_106
+      rect:
+        serializedVersion: 2
+        x: 7051
+        y: 3778
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_107
+      rect:
+        serializedVersion: 2
+        x: 7490
+        y: 3778
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_108
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3042
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_109
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_110
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_111
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_112
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 3042
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_113
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_114
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_115
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_116
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 3042
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_117
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 3040
+        width: 368
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_118
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_119
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 3042
+        width: 368
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_120
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 3042
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_121
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_122
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_123
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 3042
+        width: 368
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_124
+      rect:
+        serializedVersion: 2
+        x: 7051
+        y: 3042
+        width: 367
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_125
+      rect:
+        serializedVersion: 2
+        x: 7490
+        y: 3042
+        width: 368
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_126
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2302
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_127
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_128
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_129
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 2302
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_130
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2302
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_131
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_132
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_133
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 2302
+        width: 364
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_134
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 2302
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_135
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_136
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_137
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 2302
+        width: 364
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_138
+      rect:
+        serializedVersion: 2
+        x: 5302
+        y: 2302
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_139
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_140
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_141
+      rect:
+        serializedVersion: 2
+        x: 6618
+        y: 2302
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_142
+      rect:
+        serializedVersion: 2
+        x: 7058
+        y: 2302
+        width: 364
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_143
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 2302
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_144
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1562
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_145
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1562
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_146
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1562
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_147
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1562
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_148
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1552
+        width: 372
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_149
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1562
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_150
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1562
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_151
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1562
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_152
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 1562
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_153
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 1562
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_154
+      rect:
+        serializedVersion: 2
+        x: 4419
+        y: 1562
+        width: 371
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_155
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 1562
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_156
+      rect:
+        serializedVersion: 2
+        x: 5298
+        y: 1562
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_157
+      rect:
+        serializedVersion: 2
+        x: 5738
+        y: 1562
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_158
+      rect:
+        serializedVersion: 2
+        x: 6175
+        y: 1552
+        width: 371
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_159
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 1562
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_160
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 1562
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_161
+      rect:
+        serializedVersion: 2
+        x: 7494
+        y: 1562
+        width: 368
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_162
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 822
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_163
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_164
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_165
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_166
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 822
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_167
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_168
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_169
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_170
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 822
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_171
+      rect:
+        serializedVersion: 2
+        x: 3978
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_172
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_173
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_174
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 822
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_175
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 816
+        width: 372
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_176
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_177
+      rect:
+        serializedVersion: 2
+        x: 6614
+        y: 816
+        width: 372
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_178
+      rect:
+        serializedVersion: 2
+        x: 7051
+        y: 822
+        width: 375
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Middelboom_179
+      rect:
+        serializedVersion: 2
+        x: 7490
+        y: 822
+        width: 372
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

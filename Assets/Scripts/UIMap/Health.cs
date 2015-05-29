@@ -11,7 +11,6 @@ public class Health : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         maxHp = GameObject.FindGameObjectWithTag(Tags.PLAYER).GetComponent<PlayerBehaviour>().health;
-        maxHp = 100;
         Debug.Log(maxHp);
 	}
 	
