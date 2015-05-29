@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 79e61efabccbd41a8a9cae82b8a56df6
+timeCreated: 1432885436
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Beaver_Front_Die_0
+    21300002: Beaver_Front_Die_1
+    21300004: Beaver_Front_Die_2
+    21300006: Beaver_Front_Die_3
+    21300008: Beaver_Front_Die_4
+    21300010: Beaver_Front_Die_5
+    21300012: Beaver_Front_Die_6
+    21300014: Beaver_Front_Die_7
+    21300016: Beaver_Front_Die_8
+    21300018: Beaver_Front_Die_9
+    21300020: Beaver_Front_Die_10
+    21300022: Beaver_Front_Die_11
+    21300024: Beaver_Front_Die_12
+    21300026: Beaver_Front_Die_13
+    21300028: Beaver_Front_Die_14
+    21300030: Beaver_Front_Die_15
+    21300032: Beaver_Front_Die_16
+    21300034: Beaver_Front_Die_17
+    21300036: Beaver_Front_Die_18
+    21300038: Beaver_Front_Die_19
+    21300040: Beaver_Front_Die_20
+    21300042: Beaver_Front_Die_21
+    21300044: Beaver_Front_Die_22
+    21300046: Beaver_Front_Die_23
+    21300048: Beaver_Front_Die_24
+    21300050: Beaver_Front_Die_25
+    21300052: Beaver_Front_Die_26
+    21300054: Beaver_Front_Die_27
+    21300056: Beaver_Front_Die_28
+    21300058: Beaver_Front_Die_29
+    21300060: Beaver_Front_Die_30
+    21300062: Beaver_Front_Die_31
+    21300064: Beaver_Front_Die_32
+    21300066: Beaver_Front_Die_33
+    21300068: Beaver_Front_Die_34
+    21300070: Beaver_Front_Die_35
+    21300072: Beaver_Front_Die_36
+    21300074: Beaver_Front_Die_37
+    21300076: Beaver_Front_Die_38
+    21300078: Beaver_Front_Die_39
+    21300080: Beaver_Front_Die_40
+    21300082: Beaver_Front_Die_41
+    21300084: Beaver_Front_Die_42
+    21300086: Beaver_Front_Die_43
+    21300088: Beaver_Front_Die_44
+    21300090: Beaver_Front_Die_45
+    21300092: Beaver_Front_Die_46
+    21300094: Beaver_Front_Die_47
+    21300096: Beaver_Front_Die_48
+    21300098: Beaver_Front_Die_49
+    21300100: Beaver_Front_Die_50
+    21300102: Beaver_Front_Die_51
+    21300104: Beaver_Front_Die_52
+    21300106: Beaver_Front_Die_53
+    21300108: Beaver_Front_Die_54
+    21300110: Beaver_Front_Die_55
+    21300112: Beaver_Front_Die_56
+    21300114: Beaver_Front_Die_57
+    21300116: Beaver_Front_Die_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Beaver_Front_Die_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1080
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1080
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1080
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1080
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1080
+        width: 71
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1080
+        width: 74
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_6
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1080
+        width: 77
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1080
+        width: 79
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_8
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1080
+        width: 81
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_9
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1080
+        width: 83
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 935
+        width: 79
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 935
+        width: 73
+        height: 91
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_12
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 933
+        width: 71
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 929
+        width: 71
+        height: 91
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 926
+        width: 72
+        height: 91
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 924
+        width: 73
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_16
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 922
+        width: 74
+        height: 89
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_17
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 920
+        width: 75
+        height: 88
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_18
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 919
+        width: 76
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_19
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 919
+        width: 77
+        height: 83
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 774
+        width: 76
+        height: 83
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 774
+        width: 76
+        height: 83
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 774
+        width: 76
+        height: 84
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_23
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 774
+        width: 76
+        height: 84
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_24
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 774
+        width: 76
+        height: 84
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 774
+        width: 76
+        height: 85
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_26
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 774
+        width: 76
+        height: 85
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_27
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 774
+        width: 76
+        height: 85
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_28
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 774
+        width: 76
+        height: 85
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_29
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 774
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_32
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_33
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_35
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_36
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_37
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_38
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_39
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 629
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_44
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_45
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_46
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_48
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_49
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 484
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_50
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_52
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_53
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_54
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_55
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_56
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_57
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Die_58
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 339
+        width: 78
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

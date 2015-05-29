@@ -402,6 +402,7 @@ GameObject:
   - 223: {fileID: 1532891404}
   - 114: {fileID: 1532891403}
   - 114: {fileID: 1532891402}
+  - 114: {fileID: 1532891405}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -482,6 +483,19 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingLayerID: 0
   m_SortingOrder: 0
+--- !u!114 &1532891405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1532891400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84e7a258b9dea934d8412383f5930362, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  resource: {fileID: 1600528755}
+  player: {fileID: 1743074538}
 --- !u!1 &1600528753
 GameObject:
   m_ObjectHideFlags: 0
@@ -603,7 +617,11 @@ Transform:
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
+--- !u!1 &1743074538
+GameObject:
+  m_PrefabParentObject: {fileID: 189718, guid: 3ea9eec2327b24648b92e784e8b3d567, type: 2}
+  m_PrefabInternal: {fileID: 328676182}
 --- !u!1 &1745261125
 GameObject:
   m_ObjectHideFlags: 0
@@ -710,7 +728,7 @@ GameObject:
   - 4: {fileID: 1849753430}
   - 114: {fileID: 1849753429}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: Spawner
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -728,7 +746,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   resources:
-  - {fileID: 0}
+  - {fileID: 113938, guid: 2ff02bfdb2efbf84387199f71ef5cfc7, type: 2}
   amountResources: 21
 --- !u!4 &1849753430
 Transform:
