@@ -9,6 +9,8 @@ GameObject:
   m_Component:
   - 4: {fileID: 490180}
   - 212: {fileID: 21262244}
+  - 114: {fileID: 11496312}
+  - 50: {fileID: 5031670}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Untagged
@@ -28,6 +30,32 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+--- !u!50 &5031670
+Rigidbody2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174362}
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: .0500000007
+  m_GravityScale: 0
+  m_FixedAngle: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+--- !u!114 &11496312
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 174362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de5a06d31ef38ba4a841fb4e99ebc143, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &21262244
 SpriteRenderer:
   m_ObjectHideFlags: 1

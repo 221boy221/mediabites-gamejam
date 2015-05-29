@@ -13,10 +13,10 @@ public class PlayerAttacks : MonoBehaviour
 
     void Start() 
     {
-        _ranged = GetComponent<Ranged>();
+        _ranged = GetComponentInChildren<Ranged>();
         _ranged.SetValues(0.5f, gameObject);
 
-        _melee = GetComponent<Melee>();
+        _melee = GetComponentInChildren<Melee>();
         _melee.SetValues(1.0f, gameObject);
 
         _weaponList = new List<Weapon> 
