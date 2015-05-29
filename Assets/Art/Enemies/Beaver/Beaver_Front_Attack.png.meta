@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 56478673cc39b4072815850a3e78e366
+timeCreated: 1432885274
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Beaver_Front_Attack_0
+    21300002: Beaver_Front_Attack_1
+    21300004: Beaver_Front_Attack_2
+    21300006: Beaver_Front_Attack_3
+    21300008: Beaver_Front_Attack_4
+    21300010: Beaver_Front_Attack_5
+    21300012: Beaver_Front_Attack_6
+    21300014: Beaver_Front_Attack_7
+    21300016: Beaver_Front_Attack_8
+    21300018: Beaver_Front_Attack_9
+    21300020: Beaver_Front_Attack_10
+    21300022: Beaver_Front_Attack_11
+    21300024: Beaver_Front_Attack_12
+    21300026: Beaver_Front_Attack_13
+    21300028: Beaver_Front_Attack_14
+    21300030: Beaver_Front_Attack_15
+    21300032: Beaver_Front_Attack_16
+    21300034: Beaver_Front_Attack_17
+    21300036: Beaver_Front_Attack_18
+    21300038: Beaver_Front_Attack_19
+    21300040: Beaver_Front_Attack_20
+    21300042: Beaver_Front_Attack_21
+    21300044: Beaver_Front_Attack_22
+    21300046: Beaver_Front_Attack_23
+    21300048: Beaver_Front_Attack_24
+    21300050: Beaver_Front_Attack_25
+    21300052: Beaver_Front_Attack_26
+    21300054: Beaver_Front_Attack_27
+    21300056: Beaver_Front_Attack_28
+    21300058: Beaver_Front_Attack_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Beaver_Front_Attack_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 680
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 680
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 680
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 680
+        width: 69
+        height: 98
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 680
+        width: 69
+        height: 98
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 680
+        width: 69
+        height: 98
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 535
+        width: 69
+        height: 99
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 535
+        width: 69
+        height: 100
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 535
+        width: 69
+        height: 99
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 535
+        width: 69
+        height: 98
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 535
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_11
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 535
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_12
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 390
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_13
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 390
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 390
+        width: 69
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 390
+        width: 69
+        height: 93
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 390
+        width: 69
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_17
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 390
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 245
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_19
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 245
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 245
+        width: 69
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 245
+        width: 69
+        height: 93
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_22
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 245
+        width: 69
+        height: 94
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_23
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 245
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 100
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_25
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 100
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 100
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 100
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 100
+        width: 69
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Beaver_Front_Attack_29
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 100
+        width: 69
+        height: 97
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

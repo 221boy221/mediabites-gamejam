@@ -14,8 +14,8 @@ public class FirstTierMeleeEnemy : BaseEnemy {
 		isMeleeEnemy = true;
 
 		//Set Distances
-		minDistanceKept = 2f;
-		maxDistanceKept = 1.99f;
+		minDistanceKept = 1.5f;
+		maxDistanceKept = 1.49f;
 	}
 
 	void Update()

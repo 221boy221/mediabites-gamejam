@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 6f8c74e7bb50adb46a9232d56f1387c0
+timeCreated: 1432890227
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IdleBack_0
+    21300002: IdleBack_1
+    21300004: IdleBack_2
+    21300006: IdleBack_3
+    21300008: IdleBack_4
+    21300010: IdleBack_5
+    21300012: IdleBack_6
+    21300014: IdleBack_7
+    21300016: IdleBack_8
+    21300018: IdleBack_9
+    21300020: IdleBack_10
+    21300022: IdleBack_11
+    21300024: IdleBack_12
+    21300026: IdleBack_13
+    21300028: IdleBack_14
+    21300030: IdleBack_15
+    21300032: IdleBack_16
+    21300034: IdleBack_17
+    21300036: IdleBack_18
+    21300038: IdleBack_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IdleBack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 833
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 833
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 833
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 833
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 833
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 833
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 642
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 642
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 642
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 642
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 642
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 642
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 451
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 451
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 451
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 451
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IdleBack_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 451
+        width: 140
+        height: 191
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
