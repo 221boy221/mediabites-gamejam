@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 78a5fd0afe77fc541b48c4b4fe914489
+timeCreated: 1432888256
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WalkFront_0
+    21300002: WalkFront_1
+    21300004: WalkFront_2
+    21300006: WalkFront_3
+    21300008: WalkFront_4
+    21300010: WalkFront_5
+    21300012: WalkFront_6
+    21300014: WalkFront_7
+    21300016: WalkFront_8
+    21300018: WalkFront_9
+    21300020: WalkFront_10
+    21300022: WalkFront_11
+    21300024: WalkFront_12
+    21300026: WalkFront_13
+    21300028: WalkFront_14
+    21300030: WalkFront_15
+    21300032: WalkFront_16
+    21300034: WalkFront_17
+    21300036: WalkFront_18
+    21300038: WalkFront_19
+    21300040: WalkFront_20
+    21300042: WalkFront_21
+    21300044: WalkFront_22
+    21300046: WalkFront_23
+    21300048: WalkFront_24
+    21300050: WalkFront_25
+    21300052: WalkFront_26
+    21300054: WalkFront_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WalkFront_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 823
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 823
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 823
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 823
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 823
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 823
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 622
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 622
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 622
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 622
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_11
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 622
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_12
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 622
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_13
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 622
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 421
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 421
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 421
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 421
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 421
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_19
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 421
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_20
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 421
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 220
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_23
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 220
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 220
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_25
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 220
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_26
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 220
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WalkFront_27
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 220
+        width: 141
+        height: 201
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

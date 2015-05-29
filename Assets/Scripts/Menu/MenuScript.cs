@@ -20,7 +20,7 @@ public class MenuScript : MonoBehaviour {
 
     public void StartButton()
     {
-        Application.LoadLevel("KevinScene");
+        Application.LoadLevel("Game");
     }
 
     public void Setings()
@@ -43,7 +43,7 @@ public class MenuScript : MonoBehaviour {
 
     public void Credits()
     {
-        Application.LoadLevel("KevinCredits");
+        Application.LoadLevel("CreditsScrene");
     }
  
     public void MuteSound()

@@ -40,35 +40,37 @@ public class PlayerMovement : MonoBehaviour
 
     void Movement() 
     {
-        bool isMoving;
-
         _rbody.velocity = movement;
+
         if (_rbody.velocity.x > 0) 
         {
             Flip(-1);
-            isMoving = true;
+            _anim.Play("WalkX");
         }
         else if (_rbody.velocity.x < 0)
         {
             Flip(1);
-            isMoving = true;
+            _anim.Play("WalkX");
         } 
-        else if (_rbody.velocity.y != 0) 
+        else if (_rbody.velocity.y < 0) 
         {
-            isMoving = true;
-        }
-        else 
-        {
-            isMoving = false;
-        }
-
-        if (isMoving) 
-        {
-            _anim.Play("charWalk");
+            _anim.Play("WalkFront");
         } 
-        else 
+        else if (_rbody.velocity.y > 0) 
         {
-            _anim.Play("charIdle");
+            _anim.Play("WalkBack");
+        }
+        else  
+        {
+            if (_anim.GetCurrentAnimatorStateInfo(0).IsName("WalkBack"))
+            {
+                _anim.Play("IdleBack");
+            } 
+            else if (_anim.GetCurrentAnimatorStateInfo(0).IsName("WalkX") || _anim.GetCurrentAnimatorStateInfo(0).IsName("WalkFront"))
+            {
+                _anim.Play("Idle");
+            }
+            
         }
     }
 
