@@ -7,8 +7,7 @@ public class Melee : Weapon {
     private float _timeSinceLastShot;
     private GameObject _owner;
 
-    public void SetValues(float fireDelay, GameObject owner) {
-        _owner = owner;
+    public void SetValues(float fireDelay) {
         _fireDelay = fireDelay;
     }
 

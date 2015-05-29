@@ -11,9 +11,8 @@ public class Ranged : Weapon
     private GameObject _projectile;
     Vector2 mousePos;
 
-    public void SetValues(float fireDelay, GameObject owner) 
+    public void SetValues(float fireDelay) 
     {
-        _owner = owner;
         _fireDelay = fireDelay;
     }
 
