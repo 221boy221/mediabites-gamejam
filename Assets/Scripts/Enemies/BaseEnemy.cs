@@ -3,8 +3,9 @@ using System.Collections;
 
 public class BaseEnemy : MonoBehaviour {
 
-	//Animations
-	private Animator _anim;
+	//Animator & Rigidbody
+	private Animator 	_anim;
+	private Rigidbody2D _rigidbody;
 
 	//Finding the Player
 	private GameObject _targetPlayer;
@@ -21,14 +22,17 @@ public class BaseEnemy : MonoBehaviour {
 	protected bool isRangedEnemy;
 
 	//Movement Bizniz
+	private Vector2 position;
 	protected float movementSpeed = 4;
 	protected float maxDistanceKept;
 	protected float minDistanceKept;
 	private bool _moving = true;
+	private bool _facingLeft = true;
 
 	public virtual void Awake()
 	{
 		_anim = GetComponent<Animator>();
+		_rigidbody = GetComponent<Rigidbody2D>();
 
 		_targetPlayer = GameObject.FindGameObjectWithTag(Tags.PLAYER);
 		_targetTree = GameObject.FindGameObjectWithTag(Tags.TREE);
@@ -36,7 +40,6 @@ public class BaseEnemy : MonoBehaviour {
 
 	public virtual void Update()
 	{
-
 		if(_targetPlayer)
 			_distancePlayer = Vector2.Distance(transform.position, _targetPlayer.transform.position);
 		
@@ -74,6 +77,8 @@ public class BaseEnemy : MonoBehaviour {
 			{
 				RangedAttack();
 			}
+
+			_rigidbody.isKinematic = true;
 		}
 	}
 
@@ -84,8 +89,49 @@ public class BaseEnemy : MonoBehaviour {
 		{
 			float t = movementSpeed * Time.deltaTime;
 
-			transform.position = Vector2.MoveTowards(transform.position, _targetTree.transform.position, t);
+			if(_moving)
+			{
+				position = transform.position;
+				position = Vector2.MoveTowards(position, _targetTree.transform.position, t);
+				_rigidbody.velocity = position;
+				_rigidbody.isKinematic = false;
+			}
+
+			if( _rigidbody.velocity.x > 0 )
+			{
+				_anim.SetTrigger("Walk_Side");
+				if(_facingLeft)
+				{
+					Flip ();
+				}
+			}
+			else if( _rigidbody.velocity.x < 0 )
+			{
+				_anim.SetTrigger("Walk_Side");
+				if(!_facingLeft)
+				{
+					Flip ();
+				}
+			}
+
+			if( _rigidbody.velocity.y > 0 )
+			{
+				_anim.SetTrigger("Walk_Front");
+			}
+			else if( _rigidbody.velocity.y < 0 )
+			{
+				_anim.SetTrigger("Walk_Back");
+			}
 		}
+	}
+
+	private void Flip()
+	{
+		_facingLeft = !_facingLeft;
+
+		Vector3 Scale = transform.localScale;
+		Scale.x *= -1;
+		transform.localScale = Scale;
 	}
 
 	//Attack for a Ranged-Type Enemy
@@ -101,7 +147,7 @@ public class BaseEnemy : MonoBehaviour {
 	public void MeleeAttack()
 	{
 		//Play Melee Attack Animation
-		_anim.SetTrigger("MeleeAttack");
+		_anim.SetTrigger("MeleeAttack_Side");
 
 		print("Melee Attack");
 	}
