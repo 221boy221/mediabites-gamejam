@@ -36,7 +36,6 @@ public class BaseEnemy : MonoBehaviour {
 
 	public virtual void Update()
 	{
-		//print("Distance Tree: " + _distanceTree + ", Because Tree is " + _targetTree + "\n" + "Distance Player: " + _distancePlayer + ", Because Player is " + _targetPlayer);
 
 		if(_targetPlayer)
 			_distancePlayer = Vector2.Distance(transform.position, _targetPlayer.transform.position);
