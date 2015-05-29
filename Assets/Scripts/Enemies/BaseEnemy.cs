@@ -26,7 +26,7 @@ public class BaseEnemy : MonoBehaviour {
 
 	public virtual void Awake()
 	{
-		_target = GameObject.FindGameObjectWithTag(Tags.PLAYERTAG);
+		_target = GameObject.FindGameObjectWithTag(Tags.PLAYER);
 
 		if(_target)
 			_distance = Vector2.Distance(transform.position, _target.transform.position);
