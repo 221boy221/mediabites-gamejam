@@ -12,7 +12,6 @@ public class UIScript : MonoBehaviour {
     private GameObject UpgradeButton;
 	void Update () 
     {
-
         if (Input.GetKeyDown("e") && panel.active == false)
         {
             panel.SetActive(true);
@@ -28,7 +27,6 @@ public class UIScript : MonoBehaviour {
 
     public void OpenShop()
     {
-        Debug.Log("openshop");
         if (UIPanel.active == true)
         {
             UIPanel.SetActive(false);
