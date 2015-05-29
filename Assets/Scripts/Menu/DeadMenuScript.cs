@@ -4,11 +4,11 @@ using System.Collections;
 public class DeadMenuScript : MonoBehaviour {
     public void StartButton()
     {
-        Application.LoadLevel("KevinScene");
+        Application.LoadLevel("Game");
     }
 
     public void Back()
     {
-        Application.LoadLevel("KevinMenu");
+        Application.LoadLevel("Menu");
     }
 }

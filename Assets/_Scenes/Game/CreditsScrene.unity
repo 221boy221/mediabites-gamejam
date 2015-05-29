@@ -127,7 +127,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b5189103fa3a5af4ebe938b683a420df, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 195b6b2318a0d5f4898c540714994945, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &202500030
 Transform:
@@ -202,7 +202,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 5.38540554
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -289,7 +289,7 @@ MonoBehaviour:
   m_Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
@@ -611,6 +611,6 @@ RectTransform:
   m_RootOrder: 0
   m_AnchorMin: {x: .5, y: .5}
   m_AnchorMax: {x: .5, y: .5}
-  m_AnchoredPosition: {x: 30.7999992, y: -105.300003}
+  m_AnchoredPosition: {x: 43, y: -186}
   m_SizeDelta: {x: 48.8699989, y: 30}
   m_Pivot: {x: .5, y: .5}

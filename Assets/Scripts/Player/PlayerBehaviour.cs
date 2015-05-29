@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
 using System.Collections;
 
 // Boy Voesten
@@ -17,7 +16,6 @@ public class PlayerBehaviour : MonoBehaviour
 
     public void GetDamage(float dmg) 
     {
-        Debug.Log(_maxHealth);
         _health -= dmg;
         if(_health < 0) {
             death();
@@ -26,13 +24,13 @@ public class PlayerBehaviour : MonoBehaviour
     }
 
     void death() {
-        Application.LoadLevel("GameOverScene");
+        // ToDo: GameOver
     }
 
-    void Update()
-    {
-        Debug.Log(_maxHealth);
-    }
+
+
+
+
     // GETTERS & SETTERS
 
     public float health 

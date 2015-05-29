@@ -13,19 +13,19 @@ AnimatorController:
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Walk
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   - m_Name: Death
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -149,7 +149,7 @@ AnimatorState:
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
   m_Mirror: 0
-  m_Motion: {fileID: 7400000, guid: e001e120e7673453ca78324572c9b669, type: 2}
+  m_Motion: {fileID: 7400000, guid: 686ad47da232c8e49a57eb875e65d778, type: 2}
   m_Tag: 
 --- !u!1102 &110211964
 AnimatorState:
@@ -168,7 +168,7 @@ AnimatorState:
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
   m_Mirror: 0
-  m_Motion: {fileID: 7400000, guid: ae7ba5d3aa4c745159db13f55acfbebb, type: 2}
+  m_Motion: {fileID: 7400000, guid: b7e373a67d3f2b240a52b55e52b9ea16, type: 2}
   m_Tag: 
 --- !u!1102 &110295098
 AnimatorState:
@@ -185,7 +185,7 @@ AnimatorState:
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
   m_Mirror: 0
-  m_Motion: {fileID: 7400000, guid: 490e526a91e204483bda27ff8f560457, type: 2}
+  m_Motion: {fileID: 7400000, guid: 70a0ac43bd1b9e249b52670a35507e10, type: 2}
   m_Tag: 
 --- !u!1107 &110790520
 AnimatorStateMachine:
