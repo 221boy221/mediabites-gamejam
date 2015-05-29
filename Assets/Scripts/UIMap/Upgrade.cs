@@ -3,8 +3,8 @@ using System.Collections;
 
 public class Upgrade : MonoBehaviour {
 
-    private int _health;
-    private int _maxhealth;
+    private float _health;
+    private float _maxhealth;
     private int _damage;
     private int _points;
     private int _Upgrade;
@@ -12,7 +12,7 @@ public class Upgrade : MonoBehaviour {
     
 	void Start () {
         audio = GetComponent<AudioSource>();
-        _maxhealth = 125;
+        _maxhealth = GameObject.FindGameObjectWithTag(Tags.PLAYER).GetComponent<PlayerBehaviour>().health;
         _damage = 2;
         _points = 1;
 	}
