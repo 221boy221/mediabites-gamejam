@@ -2,9 +2,9 @@
 using System.Collections;
 
 public class Tags : MonoBehaviour {
-
-	public const string GENERALTAG 	= "Tag";
-	public const string ENEMYTAG 	= "Enemy";
-	public const string PLAYERTAG 	= "Player";
+	
+	public const string ENEMY 	= "Enemy";
+	public const string PLAYER 	= "Player";
+	public const string TREE	= "Tree";
 
 }

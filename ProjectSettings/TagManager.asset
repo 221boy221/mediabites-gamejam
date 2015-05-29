@@ -5,7 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Panel
-  - New Tag
+  - Enemy
+  - Tree
   layers:
   - Default
   - TransparentFX

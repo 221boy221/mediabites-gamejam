@@ -12,6 +12,10 @@ public class FirstTierRangedEnemy : BaseEnemy {
 
 		//Set Type Enemy
 		isRangedEnemy = true;
+
+		//Set Distances
+		minDistanceKept = 6f;
+		maxDistanceKept = 5.99f;
 	}
 
 	void Update()

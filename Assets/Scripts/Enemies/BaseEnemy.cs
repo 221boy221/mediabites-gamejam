@@ -3,9 +3,14 @@ using System.Collections;
 
 public class BaseEnemy : MonoBehaviour {
 
+	//Animations
+	private Animator _anim;
+
 	//Finding the Player
-	private GameObject _target;
-	private float _distance;
+	private GameObject _targetPlayer;
+	private GameObject _targetTree;
+	private float _distancePlayer;
+	private float _distanceTree;
 
 	//Health Bizniz
 	protected float health;
@@ -16,31 +21,36 @@ public class BaseEnemy : MonoBehaviour {
 	protected bool isRangedEnemy;
 
 	//Movement Bizniz
-	protected float movementSpeed = 2;
+	protected float movementSpeed = 4;
+	protected float maxDistanceKept;
+	protected float minDistanceKept;
 	private bool _moving = true;
-
-	private Vector3 _waypoint = new Vector3();
-	private float _circleOffset = 5;
-	private float _circleRadius = 2;
-	private float _maxRange	= 2.5f;
 
 	public virtual void Awake()
 	{
-		_target = GameObject.FindGameObjectWithTag(Tags.PLAYERTAG);
+		_anim = GetComponent<Animator>();
 
-		if(_target)
-			_distance = Vector2.Distance(transform.position, _target.transform.position);
+		_targetPlayer = GameObject.FindGameObjectWithTag(Tags.PLAYER);
+		_targetTree = GameObject.FindGameObjectWithTag(Tags.TREE);
 	}
 
 	public virtual void Update()
 	{
-		if(_target)
+		//print("Distance Tree: " + _distanceTree + ", Because Tree is " + _targetTree + "\n" + "Distance Player: " + _distancePlayer + ", Because Player is " + _targetPlayer);
+
+		if(_targetPlayer)
+			_distancePlayer = Vector2.Distance(transform.position, _targetPlayer.transform.position);
+		
+		if(_targetTree)
+			_distanceTree = Vector2.Distance(transform.position, _targetTree.transform.position);
+
+		if(_targetPlayer || _targetTree)
 		{
-			if(_distance >= 2)
+			if(_distancePlayer >= minDistanceKept || _distanceTree >= minDistanceKept)
 			{
 				_moving = true;
 			}
-			else if(_distance <= 1.99f)
+			else if(_distancePlayer <= maxDistanceKept || _distanceTree <= maxDistanceKept)
 			{
 				_moving = false;
 			}
@@ -73,42 +83,28 @@ public class BaseEnemy : MonoBehaviour {
 	{
 		if(isAlive)
 		{
-			transform.position += transform.TransformDirection(_waypoint) * movementSpeed * Time.deltaTime;
-			if( (transform.position - _waypoint).magnitude < 3 )
-			{
-				GetNewWaypoint();
-			}
+			float t = movementSpeed * Time.deltaTime;
 
-
-
-//			Vector3 targetPosition = _waypoint - transform.right * _circleOffset;
-//			targetPosition = new Vector3(targetPosition.x + Random.Range(-_maxRange, _maxRange), targetPosition.y + Random.Range(-_maxRange, _maxRange), 0);
-//			targetPosition.Normalize();
-//			targetPosition = targetPosition * _circleRadius;
-//			_waypoint = targetPosition + transform.right * _circleOffset;
-
-			//transform.position = Random.insideUnitCircle * 0.2f;
+			transform.position = Vector2.MoveTowards(transform.position, _targetTree.transform.position, t);
 		}
-	}
-
-	void GetNewWaypoint()
-	{
-		float RandomXValue = Random.Range( transform.position.x - _maxRange, transform.position.x + _maxRange );
-		float RandomYValue = Random.Range( transform.position.y - _maxRange, transform.position.y + _maxRange );
-
-		_waypoint = new Vector3( RandomXValue, RandomYValue, 0 );
 	}
 
 	//Attack for a Ranged-Type Enemy
 	public void RangedAttack()
 	{
 		//Play Ranged Attack Animation
+		_anim.SetTrigger("RangedAttack");
+
+		print("Ranged Attack");
 	}
 
 	//Attack for a Melee-Type Enemy
 	public void MeleeAttack()
 	{
 		//Play Melee Attack Animation
+		_anim.SetTrigger("MeleeAttack");
+
+		print("Melee Attack");
 	}
 
 	//When the Enemy gets hit by an attack take damage
@@ -128,7 +124,9 @@ public class BaseEnemy : MonoBehaviour {
 	void Die()
 	{
 		isAlive = false;
+
 		//Play Death Animation
+		_anim.SetTrigger("Death");
 	}
 
 	void OnBecameInvisible()
