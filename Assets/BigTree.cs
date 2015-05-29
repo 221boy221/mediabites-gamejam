@@ -3,17 +3,18 @@ using System.Collections;
 
 public class BigTree : MonoBehaviour {
 
-    public int helth;
+    public int health;
 	// Use this for initialization
 	void Start () 
     {
-        helth = 100;
+        health = 100;
 	}
 	void OnCollisionEnter2D(Collision2D other)
     {
         if(other.gameObject.tag == Tags.ENEMY)
         {
-            helth--;
+            health -= 20;
+            Debug.Log(health);
         }
     }
 	

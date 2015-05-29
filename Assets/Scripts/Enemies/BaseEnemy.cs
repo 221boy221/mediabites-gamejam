@@ -6,12 +6,14 @@ public class BaseEnemy : MonoBehaviour {
 	//Animator & Rigidbody
 	private Animator 	_anim;
 	private Rigidbody2D _rigidbody;
+    private Collider2D _collider;
 
 	//Finding the Player
 	private GameObject _targetPlayer;
 	private GameObject _targetTree;
 	private float _distancePlayer;
 	private float _distanceTree;
+    private GameObject[] _allPickups;
 
 	//Health Bizniz
 	protected float health;
@@ -23,23 +25,30 @@ public class BaseEnemy : MonoBehaviour {
 
 	//Movement Bizniz
 	private Vector2 position;
-	protected float movementSpeed = 4;
+	protected float movementSpeed = 0.1f;
 	protected float maxDistanceKept;
 	protected float minDistanceKept;
 	private bool _moving = true;
 	private bool _facingLeft = true;
 
+    // player resources
+    private PlayerResources _resources;
+
 	public virtual void Awake()
 	{
+        _resources = GameObject.FindGameObjectWithTag(Tags.PLAYER).GetComponent<PlayerResources>();
 		_anim = GetComponent<Animator>();
 		_rigidbody = GetComponent<Rigidbody2D>();
+        _collider = GetComponent<Collider2D>();
 
 		_targetPlayer = GameObject.FindGameObjectWithTag(Tags.PLAYER);
 		_targetTree = GameObject.FindGameObjectWithTag(Tags.TREE);
+        _allPickups = GameObject.FindGameObjectsWithTag(Tags.PICKUP);
 	}
 
 	public virtual void Update()
 	{
+
 		if(_targetPlayer)
 			_distancePlayer = Vector2.Distance(transform.position, _targetPlayer.transform.position);
 		
@@ -93,7 +102,7 @@ public class BaseEnemy : MonoBehaviour {
 			{
 				position = transform.position;
 				position = Vector2.MoveTowards(position, _targetTree.transform.position, t);
-				_rigidbody.velocity = position;
+				_rigidbody.velocity = -position;
 				_rigidbody.isKinematic = false;
 			}
 
@@ -169,6 +178,8 @@ public class BaseEnemy : MonoBehaviour {
 	void Die()
 	{
 		isAlive = false;
+        _resources.leaves += 1;
+        Destroy(gameObject);
 
 		//Play Death Animation
 		_anim.SetTrigger("Death");

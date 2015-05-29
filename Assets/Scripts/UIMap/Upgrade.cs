@@ -24,7 +24,6 @@ public class Upgrade : MonoBehaviour {
         {
             _maxhealth += 10;
             _points--;
-            Debug.Log("hoi");
         }
     }
 

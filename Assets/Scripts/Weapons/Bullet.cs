@@ -7,7 +7,7 @@ public class Bullet : MonoBehaviour
 {
 
     private float destroyTime = 5f;
-    private float speed = 5f;
+    private float speed = 12f;
     private float damage = 25f;
     private Rigidbody2D _rbody2D;
 
@@ -27,6 +27,7 @@ public class Bullet : MonoBehaviour
         if (other.transform.tag == "Enemy") 
         {
             // Deal Damage
+            
             other.GetComponent<BaseEnemy>().TakeDamage(damage);
         }
         else if (other.transform.tag != "Player") 
