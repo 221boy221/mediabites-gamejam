@@ -7,12 +7,14 @@ public class PlayerMovement : MonoBehaviour
 {
 
     private Rigidbody2D _rbody;
-    private Vector2 speed = new Vector2(10, 10);
+    private Vector2 speed = new Vector2(4, 3);
     private Vector2 movement;
+    private Animator _anim;
 
     void Awake() 
     {
         _rbody = GetComponent<Rigidbody2D>();
+        _anim = GetComponent<Animator>();
     }
 
     void Update() 
@@ -38,14 +40,35 @@ public class PlayerMovement : MonoBehaviour
 
     void Movement() 
     {
+        bool isMoving;
+
         _rbody.velocity = movement;
         if (_rbody.velocity.x > 0) 
         {
-            Flip(1);
+            Flip(-1);
+            isMoving = true;
         }
         else if (_rbody.velocity.x < 0)
         {
-            Flip(-1);
+            Flip(1);
+            isMoving = true;
+        } 
+        else if (_rbody.velocity.y != 0) 
+        {
+            isMoving = true;
+        }
+        else 
+        {
+            isMoving = false;
+        }
+
+        if (isMoving) 
+        {
+            _anim.Play("charWalk");
+        } 
+        else 
+        {
+            _anim.Play("charIdle");
         }
     }
 
