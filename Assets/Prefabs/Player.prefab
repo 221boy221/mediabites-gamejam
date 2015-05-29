@@ -9,11 +9,8 @@ GameObject:
   m_Component:
   - 4: {fileID: 467162}
   - 212: {fileID: 21241808}
-  - 50: {fileID: 5032414}
   - 114: {fileID: 11459758}
-  - 114: {fileID: 11499552}
-  - 114: {fileID: 11463730}
-  - 114: {fileID: 11425776}
+  - 50: {fileID: 5032414}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -48,17 +45,6 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
---- !u!114 &11425776
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 189718}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec6e9dc4530bfca43aae2fcfad2cb9cb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &11459758
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -70,29 +56,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e419e617d0f6257499f328bca393ba1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &11463730
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 189718}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8e6139efe6400154383c9de3bcaf7082, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &11499552
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 189718}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f5d08c249daba7a499a1818dad0f9b77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _projectile: {fileID: 174362, guid: 4df36d5051d26204fa9701e8d58c8466, type: 2}
 --- !u!212 &21241808
 SpriteRenderer:
   m_ObjectHideFlags: 1
